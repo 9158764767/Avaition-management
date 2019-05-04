@@ -1,0 +1,627 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AircraftMaintanance
+</name>
+</assembly>
+<members>
+<member name="T:AircraftMaintanance.AircraftMSDataSet1.Available_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.BillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.BranchesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Company_ManagementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Company_nameDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Damage_EstimateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.DamageAnalysisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.EquipmentRequiredDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Flight_AnalysisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Hanger_ManagementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Monthly_ReportsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Order_FormDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.PlanedetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.RepaintDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.ScrapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Available_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.BillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.BranchesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Company_ManagementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Company_nameRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Damage_EstimateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.DamageAnalysisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.EquipmentRequiredRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Flight_AnalysisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Hanger_ManagementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Monthly_ReportsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Order_FormRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.PlanedetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.RepaintRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.ScrapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Available_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.BillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.BranchesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Company_ManagementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Company_nameRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Damage_EstimateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.DamageAnalysisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.EquipmentRequiredRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Flight_AnalysisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Hanger_ManagementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Monthly_ReportsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.Order_FormRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.PlanedetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.RepaintRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.ScrapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.Available_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.BillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.BranchesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.Company_ManagementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.Company_nameTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.Damage_EstimateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.DamageAnalysisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.EquipmentRequiredTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.Flight_AnalysisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.Hanger_ManagementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.Monthly_ReportsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.Order_FormTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.PlanedetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.RepaintTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.ScrapTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AircraftMaintanance.AircraftMSDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AircraftMaintanance.AircraftMSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AircraftMaintanance.AircraftMSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSet1TableAdapters.TableAdapterManager.UpdateAll(AircraftMaintanance.AircraftMSDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Available_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.BillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.BranchesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Company_ManagementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Company_nameDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Damage_EstimateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.DamageAnalysisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.EquipmentRequiredDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Flight_AnalysisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Hanger_ManagementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Monthly_ReportsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Order_FormDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.PlanedetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.RepaintDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.ScrapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Available_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.BillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.BranchesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Company_ManagementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Company_nameRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Damage_EstimateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.DamageAnalysisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.EquipmentRequiredRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Flight_AnalysisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Hanger_ManagementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Monthly_ReportsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Order_FormRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.PlanedetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.RepaintRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.ScrapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Available_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.BillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.BranchesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Company_ManagementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Company_nameRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Damage_EstimateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.DamageAnalysisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.EquipmentRequiredRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Flight_AnalysisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Hanger_ManagementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Monthly_ReportsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.Order_FormRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.PlanedetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.RepaintRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.ScrapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.Available_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.BillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.BranchesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.Company_ManagementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.Company_nameTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.Damage_EstimateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.DamageAnalysisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.EquipmentRequiredTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.Flight_AnalysisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.Hanger_ManagementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.Monthly_ReportsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.Order_FormTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.PlanedetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.RepaintTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.ScrapTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AircraftMaintanance.AircraftMSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AircraftMaintanance.AircraftMSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AircraftMaintanance.AircraftMSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AircraftMaintanance.AircraftMSDataSetTableAdapters.TableAdapterManager.UpdateAll(AircraftMaintanance.AircraftMSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AircraftMaintanance.AircraftMSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
